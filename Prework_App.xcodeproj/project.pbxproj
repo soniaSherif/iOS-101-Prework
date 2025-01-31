@@ -10,9 +10,22 @@
 		22A8C8652D4AC8820030E0BE /* Prework_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		22A8C8772D4AC8840030E0BE /* Exceptions for "Prework_App" folder in "Prework_App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 22A8C8642D4AC8820030E0BE /* Prework_App */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		22A8C8672D4AC8820030E0BE /* Prework_App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				22A8C8772D4AC8840030E0BE /* Exceptions for "Prework_App" folder in "Prework_App" target */,
+			);
 			path = Prework_App;
 			sourceTree = "<group>";
 		};
